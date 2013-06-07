@@ -8,7 +8,7 @@
     <!-- Database folder path -->
     <!-- Required -->
     <!-- Path to the database folder in source control. If it is the build VCS root, then enter: . -->
-    <scriptsFolder>.</scriptsFolder>
+    <scriptsFolder>D:\Git\Test</scriptsFolder>
 
     <!-- Database server -->
     <!-- Optional -->
